@@ -3,5 +3,5 @@
   <ServerVersion>Sql2012</ServerVersion>
   <ServerName>WUIS1059</ServerName>
   <DatabaseName>t2</DatabaseName>
-  <DatabaseInformation Version="1" />
+  <DatabaseInformation Version="2" />
 </DatabaseSettings>
